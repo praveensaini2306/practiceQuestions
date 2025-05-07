@@ -1,0 +1,12 @@
+{
+  "name": "practicequestions",
+  "version": "1.0.0",
+  "description": "This repo is to create programs for interview questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
