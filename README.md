@@ -2,15 +2,15 @@ To run the program, run the command - `npm run start`
 To run the alternative, run the command - `npm run another`
 
 Some questions:
- 1.⁠ ⁠Program to find longest word in a given sentence ?
- 2.⁠ ⁠How to check whether a string is palindrome or not ?
- 3.⁠ ⁠Write a program to remove duplicates from an array ?
- 4.⁠ ⁠Program to find Reverse of a string without using built-in method ?
- 5.⁠ ⁠Find the max count of consecutive 1’s in an array ?
- 6.⁠ ⁠Find the factorial of given number ?
- 7.⁠ ⁠Given 2 arrays that are sorted [0,3,4,31] and [4,6,30]. Merge them and sort [0,3,4,4,6,30,31] ?
- 8.⁠ ⁠Create a function which will accepts two arrays arr1 and arr2. The function should return true if every value in arr1 has its corresponding value squared in array2. The frequency of values must be same.
- 9.⁠ ⁠Given two strings. Find if one string can be formed by rearranging the letters of other string.
+1. Program to find longest word in a given sentence ?
+2. How to check whether a string is palindrome or not ?
+3.⁠ ⁠Write a program to remove duplicates from an array ?
+4.⁠ ⁠Program to find Reverse of a string without using built-in method ?
+5.⁠ ⁠Find the max count of consecutive 1’s in an array ?
+6.⁠ ⁠Find the factorial of given number ?
+7.⁠ ⁠Given 2 arrays that are sorted [0,3,4,31] and [4,6,30]. Merge them and sort [0,3,4,4,6,30,31] ?
+8.⁠ ⁠Create a function which will accepts two arrays arr1 and arr2. The function should return true if every value in arr1 has its corresponding value squared in array2. The frequency of values must be same.
+9.⁠ ⁠Given two strings. Find if one string can be formed by rearranging the letters of other string.
 10.⁠ ⁠Write logic to get unique objects from below array ?
   I/P: [{name: "sai"},{name:"Nang"},{name: "sai"},{name:"Nang"},{name: "111111"}];
   O/P: [{name: "sai"},{name:"Nang"}{name: "111111"}
